@@ -1,0 +1,64 @@
+# Aula - 22/09 Paradigmas
+
+Carreiras e profissões na área de dados e IA.
+
+[Visão Geral e Oportunidades]
+
+- Analista de Dados
+- Cientista de Dados . BTC
+
+Paradigmas Orientado a Objetos
+
+{Linguagem Java}
+
+-Classes abstratas, Interface, Herança Simples
+
+e Múltiplas, Abstração, Composição, sobre
+
+Cargas de Atributos e Métodos,
+
+Padrões → Abstract Factory; Factory Method; Façade, PTC.
+
+Exemplo da fábrica de carros.
+
+---
+
+**→Analista de Dados** { Negócios, BI; Banco de Dados(SQL); Estatísticas Básica; Tecnologia TI}
+
+JR - 3.500 - 5K
+
+PL -   5K  - 9K
+
+SN - 9K  - 12K
+
+**→Engenheiro de Dados** { Negócios; TI, Programação Avançada; Cloud, Big Data; Fluxos e Arg. Dados e Plataformas}
+
+JR -   5K   -  7K
+
+PL - 7.5K  - 13K
+
+SN - 14K  - 22K
+
+**→Cientista de Dados**{ Negócio, BI (R, Python); Estatística e Matemática; Ti, Bancos Avançados; Frameworks e Ferramentas}
+
+JR  - 5K - 9K
+
+PL  - 9K - 15K
+
+SN - 15K - 30K
+
+**→Engenheiro de BlockChain**{ Negócios (Solidic, GO, Java e Python); Programação Avançada; Banco de Dados}
+
+JR - 10K  - 15K
+
+PL - 15K  - 25K
+
+SN - 25K - 40K
+
+**→Engenheiro de Machine Learning**{Full Stack, Dev Office, Machine Learning Office; CD, AD, AD, Eng. Dados; Fluxo e Orquestração de Dados}
+
+Projeto A - 10Milhões →30%/40% do Projeto
+
+**→Engenheiro de IA**{Ciência de Dados; Robótica com IA; RPA IA; IA Genética; Deep Learning; Visão Computacional}
+
+1 - 1.5Milhões Dólares/mês

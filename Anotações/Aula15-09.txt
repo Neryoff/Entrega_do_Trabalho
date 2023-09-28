@@ -1,0 +1,21 @@
+# Aula - 15/09 Paradigmas
+
+Paradigma Estruturado
+
+→ Estruturas de Dados: (Python)
+
+- Vetor
+- Matriz              **{Práticas linguagem Python**
+- Dicionários
+
+Paradigmas Orientado a Objetos
+
+→ Modular                          {java}
+
+→ Arquiteturas de Componentes(MVC)
+
+→ Linhas de Produtos de Softwares
+
+→ Modelagem de Fábrica de Carros
+
+- Herança, Polimorfismo, Modelagem, Sobrecarga, Métodos, Atributos, Agregação, Composição, Herança múltipla
